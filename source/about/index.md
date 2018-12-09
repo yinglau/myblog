@@ -1,6 +1,8 @@
 ---
 title: 关于我
 date: 2018-12-08 02:05:15
+tags:
+- ['about', 'resume']
 ---
 
 {% cq %}
